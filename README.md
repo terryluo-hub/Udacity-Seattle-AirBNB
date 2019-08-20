@@ -25,11 +25,11 @@ https://medium.com/@terryluo.zk/best-season-to-visit-seattle-e12f8bfcfeda
 
 ## Data Files: <a name="files"></a>
 
-There are six data sets provided with the project: The last file was created by the user. As part of the terms and conditions of Arvato, the files cannot be shared in this repository.
+There are three data sets provided with the project: 
 
-1.calendar.csv: Host calendar data for 2016; 1,393,570 entries(rows) x 4 features (columns).
-2.listings.csv: Host detail information; 3818 entries(rows) x 92 features (columns).
-3.reviews.csv: Customer Review for hosts; 84,849 entries(rows) x 6 (columns).
+1. 'calendar.csv' -  Host calendar data for 2016; 1,393,570 entries(rows) x 4 features (columns).
+2. 'listings.csv' - Host detail information; 3818 entries(rows) x 92 features (columns).
+3. 'reviews.csv' -  Customer Review for hosts; 84,849 entries(rows) x 6 (columns).
 
 ## Instructions: <a name="instructions"></a>
 
